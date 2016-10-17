@@ -1,0 +1,307 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	margin:0px;
+	padding:0px;
+}
+.background-wrap{
+	 position: fixed;
+	 z-index:-1000px;
+	 width:100%;
+	 height:100%;
+	 top:0px;
+	 left:0px;
+	overflow:hidden;
+}
+
+.content{
+	position:absolute;
+	z-index:1000px;
+	width:100%;
+	min-height:100%;
+}
+
+.content h1{
+	text-align:center;
+	text-size=60px;
+	text-transform:uppercase;
+	color:#FFF;
+	padding-top:2%;
+	margin-bottom:10px;
+}
+
+#present{
+	text-align:center;
+	letter-spacing:3px;
+	color:#AAA;
+	font-family: "Brush Script MT", cursive;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+	
+}
+#disc{
+	text-align:center;
+	letter-spacing:3px;
+	color:#AAA;
+	font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+	font-size: 18px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+#present
+{
+	margin-right:3%;
+}
+
+#img1{
+	width:180px;
+	height:70px;
+	padding:5px;
+	margin-top:20px;
+	margin-left:120px;
+	border:0
+}
+
+#img2{
+	width:230px;
+	height:80px;
+	padding:5px;
+	margin-top:20px;
+	margin-left:600px;
+	border:0
+}
+
+#img3{
+	position:center-left;
+	margin-left:40%;
+}
+
+#bgvid{
+	position:absolute;
+	top:0px;
+	left:0px;
+	min-height:100%;
+	min-width:100%;
+}
+
+.foot{
+	float:right;
+    margin-top:90px;
+	padding-right:25px;
+}
+#fb{
+	padding-right:20px;
+}
+#fb:hover {
+    background:#F4A460;
+	-webkit-border-radius:100%;
+	margin-left:10px;
+}
+#youtube{
+	padding-right:32px;
+	padding-left:14px;
+}
+#youtube:hover {
+    background:#F4A460;
+	-webkit-border-radius:100%;
+	margin-left:10px;
+}
+#insta{
+	padding-right:15px;
+}
+#insta:hover {
+    background:#F4A460;
+	-webkit-border-radius:100%;
+	margin-left:10px;
+}
+.sponsors{
+	display:none;
+}
+.img_right{
+	width:250px;
+	height:200px;
+}
+.w{
+	color:#FFF;
+	text-align:center;
+	font-family: Papyrus, fantasy;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+}
+.w3{
+	margin-top:45px;
+}
+h1 {
+	font-family: Papyrus, fantasy;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+	color:#FF8C00;
+	letter-spacing:4px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.overlay {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0, 0.9);
+    overflow-x: hidden;
+    transition: 0.5s;
+}
+
+.overlay-content {
+    position: relative;
+    top: 25%;
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.overlay a {
+    padding: 8px;
+    text-decoration: none;
+    font-size: 36px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+}
+
+.overlay a:hover, .overlay a:focus {
+    color: #f1f1f1;
+}
+
+.overlay .closebtn {
+    position: absolute;
+    top: 20px;
+    right: 45px;
+    font-size: 60px;
+}
+
+@media screen and (max-height: 450px) {
+  .overlay a {font-size: 20px}
+  .overlay .closebtn {
+    font-size: 40px;
+    top: 15px;
+    right: 35px;
+  }
+}
+
+#line{
+color:#AAA;
+font-size:40px;
+cursor:pointer;
+padding:10px;
+margin-top:90px;
+}
+
+
+
+
+
+
+.spon	
+{
+	padding:0px;
+	height:70px;
+	width:1363px;
+	overflow:hidden;
+	padding-top:60px;
+}
+.spon img
+{
+	width: 10%;
+    height: auto;
+	padding:2px;	
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	-ms-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+	
+	
+}
+.spon img:hover {
+	-webkit-transform: scale(1.1);
+	-moz-transform: scale(1.1);
+	-o-transform: scale(1.1);
+	-ms-transform: scale(1.1);
+	transform: scale(1.1);
+	cursor: pointer;
+	border: 1px solid blue;
+ 
+	-webkit-box-shadow: 0px 3px 5px rgba(0,0,0,0.2);
+	-moz-box-shadow: 0px 3px 5px rgba(0,0,0,0.2);
+	box-shadow: 0px 3px 5px rgba(0,0,0,0.2);
+	
+	
+	
+	
+	
+	-webkit-animation-play-state: paused;
+	animation-play-state: paused;
+	-webkit-animation: none;
+	animation: none;	
+}
+.spon:hover {
+	-webkit-animation-play-state: paused;
+	animation-play-state: paused;
+	-webkit-animation: none;
+	animation: none;	
+}
+
+.first {
+    animation: bannermove 30s linear infinite;
+}
+@-webkit-keyframes "bannermove" {
+ 0% {
+   margin-left: 0px;
+ }
+ 100% {
+   margin-left: -2125px;
+ }
+ 
+}
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,592 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+.background{
+	 position: fixed;
+	 z-index:-1000;
+	 width:100%;
+	 height:100%;
+	 top:0px;
+	 left:0px;
+	overflow:hidden;
+}
+#bgvid{
+	position:absolute;
+	 z-index:-1000;
+	top:0px;
+	left:0px;
+	min-height:100%;
+	min-width:100%;
+}
+h1{
+	color:#AAA;
+	letter-spacing:3px;
+	text-align:center;
+	margin-top:55px;
+	font-family: "Rockwell Extra Bold", "Rockwell Bold", monospace;
+	font-size: 34px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 36.4px;
+}
+figure{
+	display:inline-block;
+}
+h2{
+	text-align:center;
+	color:#AAA;
+	margin-top:90px;
+}
+.p{
+	text-align:center;
+}
+#sanjay{
+	border-radius: 50%;
+	margin-top:30px;
+	width:100px;
+	height:100px;
+}
+#txt_sanjay{
+	display: block;
+	color:#AAA;
+	padding:20px;
+	text-align:center;
+	
+	font-family: Papyrus, fantasy;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;	
+}
+
+
+
+.vp{
+	text-align:center;
+}
+#vishal{
+	border-radius: 50%;
+	margin-top:30px;
+	width:100px;
+	height:100px;
+}
+#txt_vishal{
+	display: block;
+	color:#AAA;
+	padding:20px;
+	text-align:center;
+	
+	font-family: Papyrus, fantasy;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;	
+}
+
+
+
+
+
+
+
+.gs{
+	text-align:center;
+}
+#kajal{
+	border-radius: 50%;
+	margin-top:30px;
+	width:100px;
+	height:100px;
+}
+#txt_kajal{
+	display: block;
+	color:#AAA;
+	padding:20px;
+	text-align:center;
+	
+	font-family: Papyrus, fantasy;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;	
+}
+
+
+
+
+
+
+
+.ags{
+	text-align:center;
+}
+#soumeet{
+	border-radius: 50%;
+	margin-top:30px;
+	width:100px;
+	height:100px;
+}
+#txt_soumeet{
+	display: block;
+	color:#AAA;
+	padding:20px;
+	text-align:center;
+	
+	font-family: Papyrus, fantasy;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;	
+}
+#chandrani{
+	border-radius: 50%;
+	margin-top:30px;
+	width:100px;
+	height:100px;
+}
+#txt_chandrani{
+	display: block;
+	color:#AAA;
+	padding:20px;
+	text-align:center;
+	
+	font-family: Papyrus, fantasy;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;	
+}
+
+
+
+
+
+
+
+
+
+.circuit{
+	text-align:center;
+}
+#atin{
+	border-radius: 50%;
+	margin-top:30px;
+	width:100px;
+	height:100px;
+}
+#txt_atin{
+	display: block;
+	color:#AAA;
+	padding:20px;
+	text-align:center;
+	
+	font-family: Papyrus, fantasy;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;	
+}
+#quainat{
+	border-radius: 50%;
+	margin-top:30px;
+	width:100px;
+	height:100px;
+}
+#txt_quainat{
+	display: block;
+	color:#AAA;
+	padding:20px;
+	text-align:center;
+	
+	font-family: Papyrus, fantasy;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;	
+}
+
+
+
+
+
+
+
+
+.hr{
+	text-align:center;
+}
+#purnima{
+	border-radius: 50%;
+	margin-top:30px;
+	width:100px;
+	height:100px;
+}
+#txt_purnima{
+	display: block;
+	color:#AAA;
+	padding:20px;
+	text-align:center;
+	
+	font-family: Papyrus, fantasy;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;	
+}
+#gurmit{
+	border-radius: 50%;
+	margin-top:30px;
+	width:100px;
+	height:100px;
+}
+#txt_gurmit{
+	display: block;
+	color:#AAA;
+	padding:20px;
+	text-align:center;
+	
+	font-family: Papyrus, fantasy;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;	
+}
+
+
+
+
+
+
+
+
+
+
+.it{
+	text-align:center;
+}
+#joy{
+	border-radius: 50%;
+	margin-top:30px;
+	width:100px;
+	height:100px;
+}
+#txt_joy{
+	display: block;
+	color:#AAA;
+	padding:20px;
+	text-align:center;
+	
+	font-family: Papyrus, fantasy;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;	
+}
+#faizan{
+	border-radius: 50%;
+	margin-top:30px;
+	width:100px;
+	height:100px;
+}
+#txt_faizan{
+	display: block;
+	color:#AAA;
+	padding:20px;
+	text-align:center;
+	
+	font-family: Papyrus, fantasy;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;	
+}
+
+
+
+
+
+
+
+.finance{
+	text-align:center;
+}
+#ananya{
+	border-radius: 50%;
+	margin-top:30px;
+	width:100px;
+	height:100px;
+}
+#txt_ananya{
+	display: block;
+	color:#AAA;
+	padding:20px;
+	text-align:center;
+	
+	font-family: Papyrus, fantasy;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;	
+}
+#ankita{
+	border-radius: 50%;
+	margin-top:30px;
+	width:100px;
+	height:100px;
+}
+#txt_ankita{
+	display: block;
+	color:#AAA;
+	padding:20px;
+	text-align:center;
+	
+	font-family: Papyrus, fantasy;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;	
+}
+
+
+
+
+
+
+
+
+.robotics{
+	text-align:center;
+}
+#shyam{
+	border-radius: 50%;
+	margin-top:30px;
+	width:100px;
+	height:100px;
+}
+#txt_shyam{
+	display: block;
+	color:#AAA;
+	padding:20px;
+	text-align:center;
+	
+	font-family: Papyrus, fantasy;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;	
+}
+#astro{
+	border-radius: 50%;
+	margin-top:30px;
+	width:100px;
+	height:100px;
+}
+#txt_astro{
+	display: block;
+	color:#AAA;
+	padding:20px;
+	text-align:center;
+	
+	font-family: Papyrus, fantasy;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;	
+}
+#hanuman{
+	border-radius: 50%;
+	margin-top:30px;
+	width:100px;
+	height:100px;
+}
+#txt_hanuman{
+	display: block;
+	color:#AAA;
+	padding:20px;
+	text-align:center;
+	
+	font-family: Papyrus, fantasy;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;	
+}
+
+
+
+
+
+
+
+
+
+
+
+.event{
+	text-align:center;
+}
+#ravi{
+	border-radius: 50%;
+	margin-top:30px;
+	width:100px;
+	height:100px;
+}
+#txt_ravi{
+	display: block;
+	color:#AAA;
+	padding:20px;
+	text-align:center;
+	
+	font-family: Papyrus, fantasy;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;	
+}
+#gourav{
+	border-radius: 50%;
+	margin-top:30px;
+	width:100px;
+	height:100px;
+}
+#txt_gourav{
+	display: block;
+	color:#AAA;
+	padding:20px;
+	text-align:center;
+	
+	font-family: Papyrus, fantasy;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;	
+}
+#adil{
+	border-radius: 50%;
+	margin-top:30px;
+	width:100px;
+	height:100px;
+}
+#txt_adil{
+	display: block;
+	color:#AAA;
+	padding:20px;
+	text-align:center;
+	
+	font-family: Papyrus, fantasy;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;	
+}
+
+
+
+
+
+
+
+
+.market{
+	text-align:center;
+	margin-bottom:90px;
+}
+#shaheen{
+	border-radius: 50%;
+	margin-top:30px;
+	width:100px;
+	height:100px;
+}
+#txt_shaheen{
+	display: block;
+	color:#AAA;
+	padding:20px;
+	text-align:center;
+	
+	font-family: Papyrus, fantasy;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;	
+}
+#shubham{
+	border-radius: 50%;
+	margin-top:30px;
+	width:100px;
+	height:100px;
+}
+#txt_shubham{
+	display: block;
+	color:#AAA;
+	padding:20px;
+	text-align:center;
+	
+	font-family: Papyrus, fantasy;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;	
+}
+#kumar{
+	border-radius: 50%;
+	margin-top:30px;
+	width:100px;
+	height:100px;
+}
+#txt_kumar{
+	display: block;
+	color:#AAA;
+	padding:20px;
+	text-align:center;
+	
+	font-family: Papyrus, fantasy;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;	
+}
+#abhi{
+	border-radius: 50%;
+	margin-top:30px;
+	width:100px;
+	height:100px;
+}
+#txt_abhi{
+	display: block;
+	color:#AAA;
+	padding:20px;
+	text-align:center;
+	
+	font-family: Papyrus, fantasy;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;	
+}
+
+

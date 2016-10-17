@@ -1,0 +1,278 @@
+*{
+padding:0px;
+margin:0px;
+}
+.background{
+	 position: fixed;
+	 z-index:-1000;
+	 width:100%;
+	 height:100%;
+	 top:0px;
+	 left:0px;
+	overflow:hidden;
+}
+#bgvid{
+	position:absolute;
+	 z-index:-1000;
+	top:0px;
+	left:0px;
+	min-height:100%;
+	min-width:100%;
+}
+h1{
+	color:#AAA;
+	letter-spacing:3px;
+	text-align:center;
+	margin-top:55px;
+	font-family: "Rockwell Extra Bold", "Rockwell Bold", monospace;
+	font-size: 34px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 36.4px;
+
+}
+figure{
+	display:inline-block;
+}
+
+
+
+.robotics{
+	margin-top:90px;
+	padding-right:6%;
+	text-align:center;
+}
+#boxing{
+	margin-left:60px;
+	max-width:50%;
+   max-height:50%;
+}
+#boxing:hover{opacity:0;}
+#explorer{
+	text-align:center;
+	margin-left:250px;
+	max-width:50%;
+   max-height:50%;
+	
+}
+#explorer:hover{opacity:0;}
+
+#soccer{
+	float:right;
+	margin-left:270px;
+	max-width:50%;
+   max-height:50%;
+}
+#soccer:hover{opacity:0;}
+
+#txt_boxing {
+    display: block;
+	color:#AAA;
+	margin-left:55px;
+	padding:20px;
+	
+	font-family: Papyrus, fantasy;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+}
+#txt_explorer{
+	display:block;
+	color:#AAA;
+	margin-left:250px;
+	padding:20px;
+	
+	font-family: Papyrus, fantasy;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+}
+#txt_soccer{
+	display:block;
+	color:#AAA;
+	margin-left:250px;
+	padding:20px;
+	margin-top:120px;
+	
+	font-family: Papyrus, fantasy;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+}
+
+
+
+.gaming{
+	margin-top:100px;
+	padding-right:6%;
+	text-align:center;
+}
+#cs{
+	margin-left:110px;
+	max-width:100%;
+   max-height:100%;
+
+}
+#cs:hover{opacity:0;}
+
+#nfs{
+	text-align:center;
+	max-width:50%;
+   max-height:50%;
+	margin-left:210px;
+	
+}
+#nfs:hover{opacity:0;}
+
+#fifa{
+	margin-left:200px;
+	max-width:50%;
+   max-height:50%;
+}
+#fifa:hover{opacity:0;}
+
+#txt_cs {
+    display: block;
+	color:#AAA;
+	text-align:left;
+	margin-left:55px;
+	padding:20px;
+	
+	font-family: Papyrus, fantasy;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+}
+#txt_nfs{
+	display:block;
+	color:#AAA;
+	margin-left:250px;
+	padding:20px;
+	
+	font-family: Papyrus, fantasy;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+}
+#txt_fifa{
+	display:block;
+	color:#AAA;
+	text-align:right;
+	margin-left:250px;
+	padding:30px;
+	
+	font-family: Papyrus, fantasy;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+}
+
+
+
+
+
+
+
+
+.others{
+	margin-top:120px;
+	padding-right:6%;
+	text-align:center;
+	margin-bottom:50px;
+}
+#code{
+	margin-left:50px;
+	max-width:100%;
+   max-height:100%;
+
+}
+#code:hover{opacity:0;}
+
+#junk{
+	text-align:center;
+	max-width:50%;
+   max-height:50%;
+	margin-left:270px;
+	
+}
+#junk:hover{opacity:0;}
+
+#moment{
+	margin-left:270px;
+	max-width:50%;
+   max-height:50%;
+}
+#moment:hover{opacity:0;}
+
+#txt_code {
+    display: block;
+	color:#AAA;
+	text-align:left;
+	margin-left:55px;
+	padding:20px;
+	
+	font-family: Papyrus, fantasy;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+}
+#txt_junk{
+	display:block;
+	color:#AAA;
+	margin-left:250px;
+	padding:30px;
+	
+	font-family: Papyrus, fantasy;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+}
+#txt_moment{
+	display:block;
+	color:#AAA;
+	text-align:right;
+	margin-left:290px;
+	padding:30px;
+	
+	font-family: Papyrus, fantasy;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
